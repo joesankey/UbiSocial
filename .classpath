@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="bin/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/Downloads/apache-log4j-1.2.16/apache-log4j-1.2.16/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/commons-codec-1.4/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/commons-httpclient-3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/commons-logging-1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/httpcomponents-client-4.0.1/lib/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/httpcomponents-core-4.0.1/lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/smack_3_1_0/smack.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/signpost-commonshttp4-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Joe/My Documents/My Dropbox/libaries/signpost-core-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.apache.derby.core_10.6.1/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.apache.derby.core_10.6.1/derbyclient.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.apache.derby.core_10.6.1/derbynet.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.apache.derby.core_10.6.1/derbytools.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

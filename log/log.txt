@@ -1,0 +1,55 @@
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.04978895187378 0.338353008031845 7.43332386016846'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.20993280410767; y=1.21315944194794; z=1.49377238750458 (Tue Aug 10 15:36:37 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.43332386016846; y=1.04978895187378; z=0.338353008031845 (Tue Aug 10 15:36:43 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.06149590015411 0.212044149637222 7.64760160446167'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.69621562957764; y=1.19584882259369; z=1.25339341163635 (Tue Aug 10 15:36:38 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.64760160446167; y=1.06149590015411; z=0.212044149637222 (Tue Aug 10 15:36:43 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.15818059444427 0.16246297955513 7.61457538604736'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=6.67467069625854; y=1.43324255943298; z=1.42464065551758 (Tue Aug 10 15:36:38 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.61457538604736; y=1.15818059444427; z=0.16246297955513 (Tue Aug 10 15:36:44 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.05673098564148 0.278290092945099 7.61714315414429'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=6.54935884475708; y=1.86573696136475; z=1.11061358451843 (Tue Aug 10 15:36:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.61714315414429; y=1.05673098564148; z=0.278290092945099 (Tue Aug 10 15:36:44 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.09477019309998 0.225729212164879 7.55521678924561'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=6.81340265274048; y=1.49928665161133; z=0.522318720817566 (Tue Aug 10 15:36:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.55521678924561; y=1.09477019309998; z=0.225729212164879 (Tue Aug 10 15:36:44 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.09998917579651 0.176621794700623 7.72787141799927'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=7.65419769287109; y=1.47248578071594; z=1.19941461086273 (Tue Aug 10 15:36:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.72787141799927; y=1.09998917579651; z=0.176621794700623 (Tue Aug 10 15:36:45 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.06291556358337 0.192601501941681 7.78241539001465'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=8.42138957977295; y=0.426289051771164; z=0.644385576248169 (Tue Aug 10 15:36:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.78241539001465; y=1.06291556358337; z=0.192601501941681 (Tue Aug 10 15:36:45 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.05233752727509 0.262339919805527 7.56170511245728'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.56170511245728; y=1.05233752727509; z=0.262339919805527 (Tue Aug 10 15:36:46 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.2 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.11567687988281 0.261280059814453 7.58285427093506'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=8.46228408813477; y=1.32674288749695; z=1.02925431728363 (Tue Aug 10 15:36:41 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.58285427093506; y=1.11567687988281; z=0.261280059814453 (Tue Aug 10 15:36:46 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.2 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.1217737197876 0.219581052660942 7.63203859329224'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=7.65478801727295; y=0.917909324169159; z=0.460486501455307 (Tue Aug 10 15:36:42 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.63203859329224; y=1.1217737197876; z=0.219581052660942 (Tue Aug 10 15:36:47 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.2 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000007106 1.08296012878418 0.221384018659592 7.69626474380493'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=7.53117942810059; y=1.11635708808899; z=0.296071112155914 (Tue Aug 10 15:36:42 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000007106: [TagSnapshot x=7.69626474380493; y=1.08296012878418; z=0.221384018659592 (Tue Aug 10 15:36:47 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000007106] = 2.2 / sec

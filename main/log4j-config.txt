@@ -1,0 +1,15 @@
+# Log configuration
+log4j.rootLogger=TRACE, stdout, debugFile
+
+# Appender :: stdout
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%5p [%t] (%F:%L) - %m%n
+
+# Appender :: debugFile
+log4j.appender.debugFile=org.apache.log4j.RollingFileAppender
+log4j.appender.debugFile.File=log/log.txt
+log4j.appender.debugFile.MaxFileSize=100KB
+log4j.appender.debugFile.MaxBackupIndex=10
+log4j.appender.debugFile.layout=org.apache.log4j.PatternLayout
+log4j.appender.debugFile.layout.ConversionPattern=%5p [%t] (%F:%L) - %m%n

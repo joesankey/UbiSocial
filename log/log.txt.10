@@ -1,0 +1,892 @@
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 0.9569091796875 1.22798299789429 3.01657056808472'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.01657056808472; y=0.9569091796875; z=1.22798299789429 (Tue Aug 10 14:46:01 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 0.9569091796875 1.22798299789429 3.01657056808472'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 0.9569091796875 1.22798299789429 3.01657056808472')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 0.954504430294037 1.22990942001343 3.02317428588867'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.02317428588867; y=0.954504430294037; z=1.22990942001343 (Tue Aug 10 14:46:01 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 0.954504430294037 1.22990942001343 3.02317428588867'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 0.954504430294037 1.22990942001343 3.02317428588867')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 0.953263938426971 1.23286497592926 3.03978371620178'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=6.05072784423828; y=1.16520416736603; z=1.24903428554535 (Tue Aug 10 14:45:31 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.95273494720459; y=1.16434264183044; z=1.18802356719971 (Tue Aug 10 14:45:31 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.03978371620178; y=0.953263938426971; z=1.23286497592926 (Tue Aug 10 14:46:01 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 0.953263938426971 1.23286497592926 3.03978371620178'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 0.953263938426971 1.23286497592926 3.03978371620178')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.01643896102905 1.22729349136353 3.29208445549011'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.29208445549011; y=1.01643896102905; z=1.22729349136353 (Tue Aug 10 14:46:01 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.01643896102905 1.22729349136353 3.29208445549011'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.01643896102905 1.22729349136353 3.29208445549011')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.20503866672516 1.17680096626282 3.36199522018433'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.94295740127563; y=1.16309225559235; z=1.18973433971405 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.36199522018433; y=1.20503866672516; z=1.17680096626282 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.20503866672516 1.17680096626282 3.36199522018433'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.20503866672516 1.17680096626282 3.36199522018433')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.20897579193115 1.17576861381531 3.36288738250732'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.36288738250732; y=1.20897579193115; z=1.17576861381531 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.20897579193115 1.17576861381531 3.36288738250732'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.20897579193115 1.17576861381531 3.36288738250732')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.21561574935913 1.16690993309021 3.36828517913818'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.72938203811646; y=1.13191878795624; z=1.18872725963593 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.72050809860229; y=1.12993180751801; z=1.18998491764069 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.36828517913818; y=1.21561574935913; z=1.16690993309021 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.21561574935913 1.16690993309021 3.36828517913818'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.21561574935913 1.16690993309021 3.36828517913818')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.22907614707947 1.21417140960693 3.54678893089294'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.54678893089294; y=1.22907614707947; z=1.21417140960693 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.22907614707947 1.21417140960693 3.54678893089294'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.22907614707947 1.21417140960693 3.54678893089294')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.23232352733612 1.20864248275757 3.55530977249146'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.55530977249146; y=1.23232352733612; z=1.20864248275757 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.23232352733612 1.20864248275757 3.55530977249146'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.23232352733612 1.20864248275757 3.55530977249146')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.35492444038391 1.19485127925873 3.93974709510803'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.70452308654785; y=1.12759959697723; z=1.18899095058441 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.45077085494995; y=1.09244954586029; z=1.17837417125702 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.44142532348633; y=1.09119713306427; z=1.17745339870453 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.42490673065186; y=1.08770942687988; z=1.1788489818573 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.15472316741943; y=1.02929246425629; z=1.18996059894562 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=3.93974709510803; y=1.35492444038391; z=1.19485127925873 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.933333333333334 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.35492444038391 1.19485127925873 3.93974709510803'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.35492444038391 1.19485127925873 3.93974709510803')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.37896394729614 1.1571192741394 4.0483226776123'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.0483226776123; y=1.37896394729614; z=1.1571192741394 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.37896394729614 1.1571192741394 4.0483226776123'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.37896394729614 1.1571192741394 4.0483226776123')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.38173055648804 1.15593636035919 4.05854511260986'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.05854511260986; y=1.38173055648804; z=1.15593636035919 (Tue Aug 10 14:46:02 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.38173055648804 1.15593636035919 4.05854511260986'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.38173055648804 1.15593636035919 4.05854511260986')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.49885630607605 1.16298282146454 4.25449275970459'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=5.0269603729248; y=1.03616333007813; z=1.1542112827301 (Tue Aug 10 14:45:32 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.88538885116577; y=1.0315408706665; z=1.15009689331055 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.25449275970459; y=1.49885630607605; z=1.16298282146454 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.49885630607605 1.16298282146454 4.25449275970459'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.49885630607605 1.16298282146454 4.25449275970459')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.49641835689545 1.16556584835052 4.26111125946045'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.26111125946045; y=1.49641835689545; z=1.16556584835052 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.49641835689545 1.16556584835052 4.26111125946045'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.49641835689545 1.16556584835052 4.26111125946045')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.49932026863098 1.16911590099335 4.27425956726074'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.27425956726074; y=1.49932026863098; z=1.16911590099335 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.49932026863098 1.16911590099335 4.27425956726074'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.49932026863098 1.16911590099335 4.27425956726074')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.50297725200653 1.17016267776489 4.49831771850586'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.87549257278442; y=1.02944231033325; z=1.15363192558289 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.85762500762939; y=1.02659547328949; z=1.15806519985199 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.49831771850586; y=1.50297725200653; z=1.17016267776489 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.50297725200653 1.17016267776489 4.49831771850586'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.50297725200653 1.17016267776489 4.49831771850586')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.53704583644867 1.19315683841705 4.65972900390625'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.65972900390625; y=1.53704583644867; z=1.19315683841705 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.53704583644867 1.19315683841705 4.65972900390625'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.53704583644867 1.19315683841705 4.65972900390625')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.57352542877197 1.16867208480835 4.79825735092163'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.83201026916504; y=1.02120423316956; z=1.16524374485016 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.80263566970825; y=1.01752579212189; z=1.16751897335052 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.79825735092163; y=1.57352542877197; z=1.16867208480835 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.57352542877197 1.16867208480835 4.79825735092163'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.57352542877197 1.16867208480835 4.79825735092163')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.60129511356354 1.17515599727631 4.93755865097046'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=4.93755865097046; y=1.60129511356354; z=1.17515599727631 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.60129511356354 1.17515599727631 4.93755865097046'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.60129511356354 1.17515599727631 4.93755865097046')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.62334787845612 1.15514183044434 5.10354518890381'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.76678133010864; y=1.01105225086212; z=1.17085754871368 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.72536706924438; y=1.0002613067627; z=1.17344450950623 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.23461675643921; y=0.856379508972168; z=1.22315657138824 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.10354518890381; y=1.62334787845612; z=1.15514183044434 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.62334787845612 1.15514183044434 5.10354518890381'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.62334787845612 1.15514183044434 5.10354518890381')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.63259100914001 1.12824153900146 5.21127128601074'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.21127128601074; y=1.63259100914001; z=1.12824153900146 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.63259100914001 1.12824153900146 5.21127128601074'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.63259100914001 1.12824153900146 5.21127128601074')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.67350196838379 1.15114486217499 5.35725498199463'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.35725498199463; y=1.67350196838379; z=1.15114486217499 (Tue Aug 10 14:46:03 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.67350196838379 1.15114486217499 5.35725498199463'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.67350196838379 1.15114486217499 5.35725498199463')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.67393910884857 1.15295481681824 5.36727476119995'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=4.09777498245239; y=0.799696922302246; z=1.22616076469421 (Tue Aug 10 14:45:33 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.9915943145752; y=0.784395396709442; z=1.1875376701355 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.36727476119995; y=1.67393910884857; z=1.15295481681824 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.67393910884857 1.15295481681824 5.36727476119995'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.67393910884857 1.15295481681824 5.36727476119995')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.68968224525452 1.17381083965302 5.59039115905762'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.98297309875488; y=0.780389249324799; z=1.18912208080292 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.9656298160553; y=0.772918462753296; z=1.18981885910034 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.59039115905762; y=1.68968224525452; z=1.17381083965302 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.68968224525452 1.17381083965302 5.59039115905762'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.68968224525452 1.17381083965302 5.59039115905762')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.73370432853699 1.18242239952087 5.7005786895752'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.7005786895752; y=1.73370432853699; z=1.18242239952087 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.73370432853699 1.18242239952087 5.7005786895752'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.73370432853699 1.18242239952087 5.7005786895752')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.78153681755066 1.19490623474121 5.83646965026855'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.94149804115295; y=0.762896597385406; z=1.19247686862946 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.91198396682739; y=0.750413835048676; z=1.1931312084198 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.83646965026855; y=1.78153681755066; z=1.19490623474121 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.78153681755066 1.19490623474121 5.83646965026855'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.78153681755066 1.19490623474121 5.83646965026855')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.82923066616058 1.18134212493896 5.96840476989746'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.96840476989746; y=1.82923066616058; z=1.18134212493896 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.82923066616058 1.18134212493896 5.96840476989746'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.82923066616058 1.18134212493896 5.96840476989746')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.83297324180603 1.18105101585388 5.9777946472168'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=5.9777946472168; y=1.83297324180603; z=1.18105101585388 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.83297324180603 1.18105101585388 5.9777946472168'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.83297324180603 1.18105101585388 5.9777946472168')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.91929578781128 1.18035089969635 6.19063854217529'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=6.19063854217529; y=1.91929578781128; z=1.18035089969635 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.91929578781128 1.18035089969635 6.19063854217529'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.91929578781128 1.18035089969635 6.19063854217529')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.99338674545288 1.15284430980682 6.29323291778564'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.5501344203949; y=0.600328803062439; z=1.16112589836121 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.55002975463867; y=0.598295450210571; z=1.16025686264038 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.44456171989441; y=0.588118195533752; z=1.17899775505066 (Tue Aug 10 14:45:34 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=6.29323291778564; y=1.99338674545288; z=1.15284430980682 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.99338674545288 1.15284430980682 6.29323291778564'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.99338674545288 1.15284430980682 6.29323291778564')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.03876638412476 1.20956325531006 6.42381954193115'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=6.42381954193115; y=2.03876638412476; z=1.20956325531006 (Tue Aug 10 14:46:04 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.03876638412476 1.20956325531006 6.42381954193115'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.03876638412476 1.20956325531006 6.42381954193115')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.07610893249512 1.23494112491608 6.55909967422485'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.29423260688782; y=0.566052675247192; z=1.25108683109283 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.28442478179932; y=0.563968181610107; z=1.24743616580963 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.26950168609619; y=0.558875620365143; z=1.24651515483856 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=6.55909967422485; y=2.07610893249512; z=1.23494112491608 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.07610893249512 1.23494112491608 6.55909967422485'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.07610893249512 1.23494112491608 6.55909967422485')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.091139793396 1.23083794116974 6.67867755889893'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=6.67867755889893; y=2.091139793396; z=1.23083794116974 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.091139793396 1.23083794116974 6.67867755889893'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.091139793396 1.23083794116974 6.67867755889893')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.17763233184814 1.28061604499817 6.86665391921997'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.25064849853516; y=0.555278599262238; z=1.24394106864929 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=6.86665391921997; y=2.17763233184814; z=1.28061604499817 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.17763233184814 1.28061604499817 6.86665391921997'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.17763233184814 1.28061604499817 6.86665391921997')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.25236368179321 1.2467041015625 7.04120922088623'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.04120922088623; y=2.25236368179321; z=1.2467041015625 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.25236368179321 1.2467041015625 7.04120922088623'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.25236368179321 1.2467041015625 7.04120922088623')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.30622267723084 1.20758402347565 7.15991973876953'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.15991973876953; y=2.30622267723084; z=1.20758402347565 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.30622267723084 1.20758402347565 7.15991973876953'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.30622267723084 1.20758402347565 7.15991973876953')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.32999610900879 1.2150696516037 7.32547235488892'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.22996258735657; y=0.550606489181519; z=1.24269068241119 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.20358085632324; y=0.547084391117096; z=1.2442718744278 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=3.17429614067078; y=0.543917775154114; z=1.24352824687958 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.32547235488892; y=2.32999610900879; z=1.2150696516037 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.32999610900879 1.2150696516037 7.32547235488892'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.32999610900879 1.2150696516037 7.32547235488892')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.33339786529541 1.20862376689911 7.3248815536499'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.3248815536499; y=2.33339786529541; z=1.20862376689911 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.33339786529541 1.20862376689911 7.3248815536499'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.33339786529541 1.20862376689911 7.3248815536499')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.49539709091187 1.2330414056778 7.4788293838501'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.82005214691162; y=0.463886141777039; z=1.28597044944763 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.81124997138977; y=0.461268812417984; z=1.28346085548401 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.4788293838501; y=2.49539709091187; z=1.2330414056778 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.49539709091187 1.2330414056778 7.4788293838501'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.49539709091187 1.2330414056778 7.4788293838501')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.5745096206665 1.22142171859741 7.64135313034058'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.64135313034058; y=2.5745096206665; z=1.22142171859741 (Tue Aug 10 14:46:05 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.5745096206665 1.22142171859741 7.64135313034058'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.5745096206665 1.22142171859741 7.64135313034058')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.70565938949585 1.19943165779114 7.73678874969482'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.79683637619019; y=0.455208361148834; z=1.28734159469604 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.54585742950439; y=0.325625538825989; z=1.24566245079041 (Tue Aug 10 14:45:35 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.73678874969482; y=2.70565938949585; z=1.19943165779114 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.70565938949585 1.19943165779114 7.73678874969482'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.70565938949585 1.19943165779114 7.73678874969482')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.7074728012085 1.13280010223389 7.82709693908691'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.82709693908691; y=2.7074728012085; z=1.13280010223389 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.7074728012085 1.13280010223389 7.82709693908691'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.7074728012085 1.13280010223389 7.82709693908691')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.78538846969604 1.18052780628204 7.93590068817139'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=7.93590068817139; y=2.78538846969604; z=1.18052780628204 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.78538846969604 1.18052780628204 7.93590068817139'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.78538846969604 1.18052780628204 7.93590068817139')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.64673042297363 1.20201849937439 8.13440322875977'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.5369861125946; y=0.323216795921326; z=1.24012911319733 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.52009153366089; y=0.318397849798203; z=1.23485636711121 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.25187492370605; y=0.263891994953156; z=1.1991366147995 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.09601616859436; y=0.254533410072327; z=1.2016429901123 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.13440322875977; y=2.64673042297363; z=1.20201849937439 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 5.966666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.64673042297363 1.20201849937439 8.13440322875977'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.64673042297363 1.20201849937439 8.13440322875977')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.48681330680847 1.17334318161011 8.23890495300293'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.23890495300293; y=2.48681330680847; z=1.17334318161011 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.48681330680847 1.17334318161011 8.23890495300293'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.48681330680847 1.17334318161011 8.23890495300293')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.48551249504089 1.17421495914459 8.24860668182373'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.01459193229675; y=0.329372406005859; z=1.21393346786499 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.24860668182373; y=2.48551249504089; z=1.17421495914459 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.48551249504089 1.17421495914459 8.24860668182373'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.48551249504089 1.17421495914459 8.24860668182373')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.45499777793884 1.20070362091064 8.46040153503418'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.46040153503418; y=2.45499777793884; z=1.20070362091064 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.45499777793884 1.20070362091064 8.46040153503418'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.45499777793884 1.20070362091064 8.46040153503418')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.47904014587402 1.15903520584106 8.57856178283691'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.57856178283691; y=2.47904014587402; z=1.15903520584106 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.47904014587402 1.15903520584106 8.57856178283691'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.47904014587402 1.15903520584106 8.57856178283691')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.52591562271118 1.22968924045563 8.72557163238525'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.00433111190796; y=0.330776333808899; z=1.21254074573517 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.7423996925354; y=0.440856426954269; z=1.27426016330719 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.72557163238525; y=2.52591562271118; z=1.22968924045563 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.52591562271118 1.22968924045563 8.72557163238525'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.52591562271118 1.22968924045563 8.72557163238525')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.44747591018677 1.18832504749298 8.81893062591553'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.81893062591553; y=2.44747591018677; z=1.18832504749298 (Tue Aug 10 14:46:06 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.44747591018677 1.18832504749298 8.81893062591553'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.44747591018677 1.18832504749298 8.81893062591553')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.31200528144836 1.22611892223358 8.9727897644043'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.51672387123108; y=0.466872215270996; z=1.3399486541748 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.43475008010864; y=0.309822469949722; z=1.15155327320099 (Tue Aug 10 14:45:36 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.48124396800995; y=0.163454368710518; z=1.18530762195587 (Tue Aug 10 14:45:37 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=8.9727897644043; y=2.31200528144836; z=1.22611892223358 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.31200528144836 1.22611892223358 8.9727897644043'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.31200528144836 1.22611892223358 8.9727897644043')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.0578031539917 1.23709940910339 9.08247470855713'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.08247470855713; y=2.0578031539917; z=1.23709940910339 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.0578031539917 1.23709940910339 9.08247470855713'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.0578031539917 1.23709940910339 9.08247470855713')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.9577077627182 1.27716517448425 9.2596607208252'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.48003125190735; y=0.0495062172412872; z=1.18495666980743 (Tue Aug 10 14:45:37 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.48178899288177; y=0.0458321273326874; z=1.18400776386261 (Tue Aug 10 14:45:37 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.2596607208252; y=1.9577077627182; z=1.27716517448425 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.0 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.9577077627182 1.27716517448425 9.2596607208252'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.9577077627182 1.27716517448425 9.2596607208252')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.92238795757294 1.14430236816406 9.28101825714111'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.28101825714111; y=1.92238795757294; z=1.14430236816406 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.033333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.92238795757294 1.14430236816406 9.28101825714111'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.92238795757294 1.14430236816406 9.28101825714111')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.82897770404816 1.18856596946716 9.34317970275879'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.34317970275879; y=1.82897770404816; z=1.18856596946716 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.82897770404816 1.18856596946716 9.34317970275879'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.82897770404816 1.18856596946716 9.34317970275879')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.82776582241058 1.18626534938812 9.349778175354'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.349778175354; y=1.82776582241058; z=1.18626534938812 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.82776582241058 1.18626534938812 9.349778175354'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.82776582241058 1.18626534938812 9.349778175354')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.98720979690552 1.07253456115723 9.41042137145996'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.15311217308044; y=0.0555105209350586; z=1.25922274589539 (Tue Aug 10 14:45:37 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.14307260513306; y=0.0585951022803783; z=1.25837910175323 (Tue Aug 10 14:45:37 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.41042137145996; y=1.98720979690552; z=1.07253456115723 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.066666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.98720979690552 1.07253456115723 9.41042137145996'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.98720979690552 1.07253456115723 9.41042137145996')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.87819623947144 1.1633448600769 9.29266929626465'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.29266929626465; y=1.87819623947144; z=1.1633448600769 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.1 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.87819623947144 1.1633448600769 9.29266929626465'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.87819623947144 1.1633448600769 9.29266929626465')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.99100196361542 1.20350480079651 9.34525680541992'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.34525680541992; y=1.99100196361542; z=1.20350480079651 (Tue Aug 10 14:46:07 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.133333333333334 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.99100196361542 1.20350480079651 9.34525680541992'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.99100196361542 1.20350480079651 9.34525680541992')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.99583315849304 1.20164108276367 9.34398555755615'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.34398555755615; y=1.99583315849304; z=1.20164108276367 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.166666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.99583315849304 1.20164108276367 9.34398555755615'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.99583315849304 1.20164108276367 9.34398555755615')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.99455118179321 1.20343804359436 9.34866619110107'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=0.792238116264343; y=0.0250483453273773; z=1.29151272773743 (Tue Aug 10 14:45:38 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.34866619110107; y=1.99455118179321; z=1.20343804359436 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.166666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.99455118179321 1.20343804359436 9.34866619110107'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.99455118179321 1.20343804359436 9.34866619110107')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.99375796318054 1.20370614528656 9.35759353637695'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.35759353637695; y=1.99375796318054; z=1.20370614528656 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.2 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.99375796318054 1.20370614528656 9.35759353637695'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.99375796318054 1.20370614528656 9.35759353637695')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.99106156826019 1.20355439186096 9.36766910552979'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=0.677949905395508; y=0.294806003570557; z=1.24777936935425 (Tue Aug 10 14:45:38 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.36766910552979; y=1.99106156826019; z=1.20355439186096 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.2 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.99106156826019 1.20355439186096 9.36766910552979'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.99106156826019 1.20355439186096 9.36766910552979')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.85224378108978 1.12964689731598 9.36973857879639'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.36973857879639; y=1.85224378108978; z=1.12964689731598 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.233333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.85224378108978 1.12964689731598 9.36973857879639'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.85224378108978 1.12964689731598 9.36973857879639')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.85971868038177 1.13560485839844 9.36526679992676'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.36526679992676; y=1.85971868038177; z=1.13560485839844 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.266666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.85971868038177 1.13560485839844 9.36526679992676'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.85971868038177 1.13560485839844 9.36526679992676')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.86478710174561 1.13808178901672 9.34975910186768'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.34975910186768; y=1.86478710174561; z=1.13808178901672 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.3 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.86478710174561 1.13808178901672 9.34975910186768'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.86478710174561 1.13808178901672 9.34975910186768')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.26917362213135 1.21956670284271 9.41847038269043'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.41847038269043; y=2.26917362213135; z=1.21956670284271 (Tue Aug 10 14:46:08 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.333333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.26917362213135 1.21956670284271 9.41847038269043'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.26917362213135 1.21956670284271 9.41847038269043')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.27783274650574 1.19683265686035 9.30358123779297'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.30358123779297; y=2.27783274650574; z=1.19683265686035 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.366666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.27783274650574 1.19683265686035 9.30358123779297'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.27783274650574 1.19683265686035 9.30358123779297')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.3734827041626 1.17074429988861 9.44556713104248'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.44556713104248; y=2.3734827041626; z=1.17074429988861 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.4 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.3734827041626 1.17074429988861 9.44556713104248'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.3734827041626 1.17074429988861 9.44556713104248')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.37456464767456 1.16926157474518 9.44852638244629'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.44852638244629; y=2.37456464767456; z=1.16926157474518 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.433333333333334 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.37456464767456 1.16926157474518 9.44852638244629'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.37456464767456 1.16926157474518 9.44852638244629')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.37180995941162 1.16741645336151 9.45306301116943'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.85381054878235; y=0.160542726516724; z=1.16114890575409 (Tue Aug 10 14:45:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.45306301116943; y=2.37180995941162; z=1.16741645336151 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.433333333333334 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.37180995941162 1.16741645336151 9.45306301116943'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.37180995941162 1.16741645336151 9.45306301116943')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.18126106262207 1.15253305435181 9.44920921325684'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.44920921325684; y=2.18126106262207; z=1.15253305435181 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.466666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.18126106262207 1.15253305435181 9.44920921325684'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.18126106262207 1.15253305435181 9.44920921325684')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.06361961364746 1.18087446689606 9.47175407409668'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.47175407409668; y=2.06361961364746; z=1.18087446689606 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.5 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.06361961364746 1.18087446689606 9.47175407409668'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.06361961364746 1.18087446689606 9.47175407409668')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.05505132675171 1.17996573448181 9.47700023651123'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.47700023651123; y=2.05505132675171; z=1.17996573448181 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.533333333333333 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.05505132675171 1.17996573448181 9.47700023651123'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.05505132675171 1.17996573448181 9.47700023651123')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 2.03800582885742 1.17887997627258 9.48178291320801'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.85205936431885; y=0.151574403047562; z=1.1651166677475 (Tue Aug 10 14:45:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.85367214679718; y=0.14223113656044; z=1.16600441932678 (Tue Aug 10 14:45:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.86080121994019; y=0.13762928545475; z=1.1692863702774 (Tue Aug 10 14:45:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.48178291320801; y=2.03800582885742; z=1.17887997627258 (Tue Aug 10 14:46:09 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.466666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 2.03800582885742 1.17887997627258 9.48178291320801'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 2.03800582885742 1.17887997627258 9.48178291320801')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.59890592098236 1.17495846748352 9.45736122131348'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.91318655014038; y=0.209365129470825; z=1.21196281909943 (Tue Aug 10 14:45:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.91471028327942; y=0.21670189499855; z=1.20890235900879 (Tue Aug 10 14:45:39 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.45736122131348; y=1.59890592098236; z=1.17495846748352 (Tue Aug 10 14:46:10 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.433333333333334 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.59890592098236 1.17495846748352 9.45736122131348'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.59890592098236 1.17495846748352 9.45736122131348')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.59189164638519 1.17269575595856 9.45410060882568'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.45410060882568; y=1.59189164638519; z=1.17269575595856 (Tue Aug 10 14:46:10 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.466666666666667 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.59189164638519 1.17269575595856 9.45410060882568'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.59189164638519 1.17269575595856 9.45410060882568')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.58248829841614 1.17395973205566 9.44999122619629'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.919588804245; y=0.223929226398468; z=1.20597279071808 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.8965859413147; y=0.166208401322365; z=1.23866856098175 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.09603977203369; y=0.170332387089729; z=1.18666315078735 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.44999122619629; y=1.58248829841614; z=1.17395973205566 (Tue Aug 10 14:46:10 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.4 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.58248829841614 1.17395973205566 9.44999122619629'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.58248829841614 1.17395973205566 9.44999122619629')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.57544648647308 1.17647051811218 9.44016647338867'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.44016647338867; y=1.57544648647308; z=1.17647051811218 (Tue Aug 10 14:46:10 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.433333333333334 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.57544648647308 1.17647051811218 9.44016647338867'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.57544648647308 1.17647051811218 9.44016647338867')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.5715217590332 1.18249773979187 9.43790912628174'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.09492635726929; y=0.175481081008911; z=1.1912202835083 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.09642934799194; y=0.18749050796032; z=1.19279026985168 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.00145673751831; y=0.28003978729248; z=1.24773859977722 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.43790912628174; y=1.5715217590332; z=1.18249773979187 (Tue Aug 10 14:46:10 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.366666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.5715217590332 1.18249773979187 9.43790912628174'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.5715217590332 1.18249773979187 9.43790912628174')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.57082974910736 1.18433511257172 9.43850994110107'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.43850994110107; y=1.57082974910736; z=1.18433511257172 (Tue Aug 10 14:46:10 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.4 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.57082974910736 1.18433511257172 9.43850994110107'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.57082974910736 1.18433511257172 9.43850994110107')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.57635116577148 1.18549847602844 9.44003772735596'
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=2.00016784667969; y=0.274744391441345; z=1.24628865718842 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:85) - [TagSnapshot x=1.99250400066376; y=0.266590148210526; z=1.24669361114502 (Tue Aug 10 14:45:40 BST 2010)] deleted.
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.44003772735596; y=1.57635116577148; z=1.18549847602844 (Tue Aug 10 14:46:10 BST 2010)]] updated.
+DEBUG [StreamReader] (Tag.java:208) - rate[20000004097] = 6.366666666666666 / sec
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='9vtgC18KKJYBzxJA0005MG0000p 1.57635116577148 1.18549847602844 9.44003772735596'
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid format of values in the stream, (raw='9vtgC18KKJYBzxJA0005MG0000p 1.57635116577148 1.18549847602844 9.44003772735596')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data=''
+ERROR [StreamReader] (DataWrapper.java:311) - Invalid number of values in the stream, got 1 when expecting 4 (raw='')
+TRACE [StreamReader] (DataWrapper.java:298) - Reading data from the stream...
+DEBUG [StreamReader] (UbiDataWrapper.java:62) - Raw data='000000000000000020000004097 1.58528101444244 1.1864629983902 9.44432163238525'
+DEBUG [StreamReader] (Tag.java:205) - [Tag #20000004097: [TagSnapshot x=9.44432163238525; y=1.58528101444244; z=1.1864629983902 (Tue Aug 10 14:46:10 BST 2010)]] updated.
